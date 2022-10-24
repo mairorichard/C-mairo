@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Lato", sans-serif;
+}
+
+.active {
+  background: #5d84c1;
+  color: white;
+}
